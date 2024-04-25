@@ -1,0 +1,12 @@
+This is a Golf Course, Player, and Tee Time DBS That Allows Users to:
+  - Find Courses
+  - Filter Courses by their Par
+  - Add Courses
+  - Update a Course's Par
+  - Find Players
+  - Filter Players By Their Age
+  - View a Golfer Directory
+  - Add PLayers
+  - Remove PLayers
+  - Schedule a Tee-Time
+  - View All Scheduled Tee Times
