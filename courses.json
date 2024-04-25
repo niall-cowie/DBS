@@ -1,0 +1,72 @@
+[
+    {
+      "model": "project.Course",
+      "fields": {
+        "course_name": "Pebble Beach Golf Links",
+        "course_par": 72
+      }
+    },
+    {
+      "model": "project.Course",
+      "fields": {
+        "course_name": "Augusta National Golf Club",
+        "course_par": 72
+      }
+    },
+    {
+      "model": "project.Course",
+      "fields": {
+        "course_name": "Cypress Point Club",
+        "course_par": 72
+      }
+    },
+    {
+      "model": "project.Course",
+      "fields": {
+        "course_name": "Shinnecock Hills Golf Club",
+        "course_par": 70
+      }
+    },
+    {
+      "model": "project.Course",
+      "fields": {
+        "course_name": "Oakmont Country Club",
+        "course_par": 71
+      }
+    },
+    {
+      "model": "project.Course",
+      "fields": {
+        "course_name": "Merion Golf Club",
+        "course_par": 70
+      }
+    },
+    {
+      "model": "project.Course",
+      "fields": {
+        "course_name": "Pinehurst Resort No. 2",
+        "course_par": 72
+      }
+    },
+    {
+      "model": "project.Course",
+      "fields": {
+        "course_name": "Bethpage Black Course",
+        "course_par": 71
+      }
+    },
+    {
+      "model": "project.Course",
+      "fields": {
+        "course_name": "Winged Foot Golf Club",
+        "course_par": 72
+      }
+    },
+    {
+      "model": "project.Course",
+      "fields": {
+        "course_name": "Oakmont Country Club",
+        "course_par": 71
+      }
+    }
+    ]

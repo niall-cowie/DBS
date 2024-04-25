@@ -1,0 +1,37 @@
+[
+    {
+        "model": "project.Tee_Time_Group_Member",
+        "fields": {
+          "tee_time": 4,
+          "participant": 1 
+        }
+      },
+      {
+        "model": "project.Tee_Time_Group_Member",
+        "fields": {
+          "tee_time": 4,
+          "participant": 2 
+        }
+      },
+      {
+        "model": "project.Tee_Time_Group_Member",
+        "fields": {
+          "tee_time": 5,
+          "participant": 3 
+        }
+      },
+      {
+        "model": "project.Tee_Time_Group_Member",
+        "fields": {
+          "tee_time": 5,
+          "participant": 4 
+        }
+      },
+      {
+        "model": "project.Tee_Time_Group_Member",
+        "fields": {
+          "tee_time": 5,
+          "participant": 5 
+        }
+      }
+    ]

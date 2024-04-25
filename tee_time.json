@@ -1,0 +1,18 @@
+[
+    {
+      "model": "project.Tee_Time",
+      "fields": {
+        "course_id": 1,
+        "group_size": 2,
+        "tee_date_time": "2014-09-01 11:30:00"
+      }
+    },
+    {
+        "model": "project.Tee_Time",
+        "fields": {
+          "course_id": 4,
+          "group_size": 3,
+          "tee_date_time": "2014-09-01 11:30:00"
+        }
+      }
+    ]

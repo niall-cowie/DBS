@@ -1,0 +1,26 @@
+<!-- courses_table.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Courses Table</title>
+</head>
+<body>
+    <h1>Courses with Par of 72</h1>
+    <table style="border: 1px solid black; color: black;">
+        <tr>
+            <th>Course ID</th>
+            <th>Course Name</th>
+            <th>Par</th>
+        </tr>
+        {% for course in courses %}
+        <tr>
+            <td>{{ course.course_id }}</td>
+            <td>{{ course.course_name }}</td>
+            <td>{{ course.course_par }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>
