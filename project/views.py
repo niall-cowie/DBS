@@ -88,19 +88,19 @@ def is_course_in_database(course_name, course_par):
 # Create your views here.
 def find_courses(request):
     # Logic for finding courses
-    return redirect('/cs/find-courses/')  # Replace '/courses/' with the actual URL for finding courses
+    return redirect('/cs/find-courses/')  
 
 def find_players(request):
     # Logic for finding players
-    return redirect('/cs/find-players/')  # Replace '/players/' with the actual URL for finding players
+    return redirect('/cs/find-players/')  
 
 def show_player_directory(request):
     # Logic for showing player directory
-    return redirect('/cs/player-directory/')  # Replace '/player-directory/' with the actual URL for showing player directory
+    return redirect('/cs/player-directory/') 
 
 def reserved_tee_times(request):
     # Logic for reserved tee times
-    return redirect('/cs/tee-times/')  # Replace '/tee-times/' with the actual URL for reserved tee times
+    return redirect('/cs/tee-times/')  
 
 def add_golfer(reqeust):
     return redirect('/cs/add_g/')
